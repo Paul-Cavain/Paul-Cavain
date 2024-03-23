@@ -19,9 +19,9 @@
 
 
 ## My Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paul-cavain&show_icons=true&locale=en&layout=compact" alt="paul-cavain" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paul-cavain&show_icons=true&locale=en" alt="paul-cavain" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paul-cavain&show_icons=true&locale=en&layout=compact" alt="paul-cavain" /></p>
 
 
 ## Connect with me
