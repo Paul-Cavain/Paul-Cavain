@@ -15,7 +15,7 @@
 - ⚡ Fun fact **I think I am funny**
   
 ## NONO
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=paul-cavain&" alt="paul-cavain" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paul-cavain&" alt="paul-cavain" /></p>
 
 
 ## Connect with me
