@@ -13,12 +13,11 @@
 - 📫 How to reach me **paulcavain02@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
+
   
-## NONO
+## My Github Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paul-cavain&" alt="paul-cavain" /></p>
 
-
-## My Github Stats
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=paul-cavain&show_icons=true&locale=en" alt="paul-cavain" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paul-cavain&show_icons=true&locale=en&layout=compact" alt="paul-cavain" /></p>
