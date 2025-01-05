@@ -2,7 +2,7 @@
 
 **`Freelancer (Frontend Developer/System Designer)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
+I'm a frontend developer, web UI designer, and mobile app creator building digital experiences one pixel at a time. I design and code projects from scratch, focusing on seamless user experiences across web and mobile platforms.
 
 ### Lanuage and Tools
 <p>
