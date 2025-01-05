@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
 <h3 align="center">A passionate Frontend developer</h3>
-<img align="center" alt="Coding" width="90%" height="450vh" src="![Alt text of the image](https://github.com/username/repository/blob/master/img/octocat.png)" >
 
 
 ## About Me.
