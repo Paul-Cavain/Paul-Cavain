@@ -1,23 +1,12 @@
-<h1 align="center">Hi 👋, I'm Paul</h1>
-<h3 align="center">A passionate Frontend developer</h3>
-![3784735](https://github.com/user-attachments/assets/f9d882e0-1b20-4030-9155-18f292b5749a)
+# 🏄‍♂️ Paul Cavain
 
-## About Me.
-- 🔭 I’m currently working on **St. Mukasa**
+**`Free lancer (Frontend Developer/System Designer)`**
 
-- 🌱 I’m currently learning **React, Node**
-
-- 💬 Ask me about **React, Java**
-
-- 📫 How to reach me **paulcavain02@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
+I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
   
-## My Github Stats
+## My Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=paul-cavain&show_icons=true&locale=en" alt="paul-cavain" /></p>
-
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=paul-cavain&show_icons=true&locale=en&layout=compact" alt="paul-cavain" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paul-cavain&" alt="paul-cavain" /></p>
 
