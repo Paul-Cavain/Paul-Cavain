@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
 <h3 align="center">A passionate Frontend developer</h3>
-
+![3784735](https://github.com/user-attachments/assets/f9d882e0-1b20-4030-9155-18f292b5749a)
 
 ## About Me.
 - 🔭 I’m currently working on **St. Mukasa**
